@@ -1,0 +1,17 @@
+# Azure IoT
+azure-iot-device>=2.14.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+mlflow>=2.10.0
+
+# API & Dashboard
+flask>=3.0.0
+requests>=2.31.0
+
+# Databricks (for notebook development)
+pyspark>=3.5.0

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Azure
+.azure/
+
+# Model artifacts (large files — document how to regenerate)
+model_artifacts/*.pkl
+
+# Data files (document download instructions)
+data/raw/*.txt
+
+# Databricks
+.databricks/
